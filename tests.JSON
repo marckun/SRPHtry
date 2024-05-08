@@ -1,0 +1,16 @@
+{
+  "tests": [
+    {
+      "Category": "getUserMedia",
+      "TC Name": "Basic getUserMedia Demo",
+      "TC Purpose": "Camera capture preview",
+      "precondition": "steps",
+      "Steps": [
+        "1. click 'Basic getUserMedia demo'",
+        "2. 'click Open Camera'",
+        "3. Check if my preview is shown"
+      ],
+      "Expected Result": "preview is shown"
+    }
+  ]
+}
