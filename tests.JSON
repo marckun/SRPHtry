@@ -1,6 +1,7 @@
 {
   "tests": [
     {
+      "id": "1",
       "category": "getUserMedia",
       "tcName": "Basic getUserMedia Demo",
       "tcPurpose": "Camera capture preview",
@@ -10,7 +11,8 @@
         "2. 'click Open Camera'",
         "3. Check if my preview is shown"
       ],
-      "expectedRes": "preview is shown"
+      "expectedRes": "preview is shown",
+      "testRes": " "
     }
   ]
 }
